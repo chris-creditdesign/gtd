@@ -1,10 +1,10 @@
-#Infographic exploring the Global Terrorism Database
+# Infographic exploring the Global Terrorism Database
 
-##Get the data
+## Get the data
 
 First things first download the entire GTD dataset from [http://www.start.umd.edu/gtd/contact/](http://www.start.umd.edu/gtd/contact/)
 
-##CSVKIT
+## CSVKIT
 
 To inspect the data we'll used CSVKIT "a suite of utilities for converting to and working with CSV, the king of tabular file formats." [https://csvkit.readthedocs.org/en/0.9.0/](https://csvkit.readthedocs.org/en/0.9.0/)
 
